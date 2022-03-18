@@ -22,3 +22,6 @@
 
 
 SynergyServicesWatcher was checked by VirusTotal visit the link bellow for further details https://www.virustotal.com/gui/file/a33590b18af711e25a628f9cfdfce0b0694acdfe5c43a4458d373d495d884b46?nocache=1
+
+
+Visit our website for more free tools and other helpful products: https://synergy-usa-llc.com
