@@ -20,12 +20,16 @@
 ![5](https://user-images.githubusercontent.com/94911727/158199949-97ab049e-ae33-4af2-ac4f-660cee2ff429.jpg)
 
 
+
 THE PROBLEM
+
 Very often services running in a Windows Server stop fo various reasons.
 For example Microsoft Exchange Server Services might stop due to lack of resources like memory.
 In this specific case end users are not able to receive emails.
 
+
 THE SOLUTION
+
 We came across this issue multiple times.
 Exchange, SQL Server, or other common services had to be manually started.
 An engineer would have to remote to a server check which service was down and then try to start it.
@@ -34,7 +38,9 @@ So we create a tool specific for our needs that we are sure will also help other
 This free application will restart any stopped service which is marked as automatic.
 It will also create daily logs of services automatically restarted so you can further check for issues. 
 
+
 HOW TO USE THIS FREE TOOL
+
 Download the file and unzip to a permanent folder under Program Files.
 Start a command prompt as Administrator and run the batch: “_Install Service – RunAsAdmin.bat”
 
