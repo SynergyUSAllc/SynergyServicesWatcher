@@ -34,7 +34,8 @@ We came across this issue multiple times.
 Exchange, SQL Server, or other common services had to be manually started.
 An engineer would have to remote to a server check which service was down and then try to start it.
 During late hours it was impossible to know the status of services.
-So we create a tool specific for our needs that we are sure will also help other follow engineers.
+
+So we create a tool specific for our needs that we are sure will also help other fellow engineers.
 This free application will restart any stopped service which is marked as automatic.
 It will also create daily logs of services automatically restarted so you can further check for issues. 
 
