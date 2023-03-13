@@ -22,12 +22,14 @@
 
 
 THE PROBLEM
+
 Very often services running in a Windows Server stop fo various reasons.
 For example Microsoft Exchange Server Services might stop due to lack of resources like memory.
 In this specific case end users are not able to receive emails.
 
 
 THE SOLUTION
+
 We came across this issue multiple times.
 Exchange, SQL Server, or other common services had to be manually started.
 An engineer would have to remote to a server check which service was down and then try to start it.
