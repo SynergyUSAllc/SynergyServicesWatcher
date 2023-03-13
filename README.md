@@ -46,7 +46,7 @@ HOW TO USE THIS FREE TOOL
 Download the file and unzip to a permanent folder under Program Files.
 Start a command prompt as Administrator and run the batch: “_Install Service – RunAsAdmin.bat”
 
-After setup open the “Configuration.exe” using Notepad for fine tuning if needed.
+After setup open the “Configuration.txt” using Notepad for fine tuning if needed.
 Don’t forget to add your own Services to ignore.
 
 Go to Services and make sure Service “SynergyServicesWatcher” is set to Automatic..or Delayed.
